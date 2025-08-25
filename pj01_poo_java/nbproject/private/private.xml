@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Controllers/RolesController.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Controllers/UserController.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Controllers/DashboardController.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Controllers/LandingController.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Routes/RouterControllers.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/dashboard/DashboardView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/landing/LandingView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/landing/LoginView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/landing/RegisterView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/roles/RolCreateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/roles/RolReadView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/roles/RolUpdateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/customers/CustomerCreateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/customers/CustomerReadView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/customers/CustomerUpdateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/customers/CustomersView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/users/UserCreateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/users/UserReadView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/users/UserUpdateView.java</file>
+            <file>file:/C:/Users/nicol/Documents/ING%20DE%20SISTEMAS/PROGRAMACION%20ORIENTADA%20A%20OBJETOS/pj01_poo_java/src/Views/modules/users/users/UsersView.java</file>
+        </group>
+    </open-files>
+</project-private>
